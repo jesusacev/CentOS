@@ -47,7 +47,7 @@ Aquí dependerá de la configuración de su gusto, ya que se puede configurar as
     	inet6 fe80::ff29:c6da:8984:609a/64 scope link noprefixroute 
        	valid_lft forever preferred_lft forever
 
-- Instalamos el paquete *net-tools* para tener las funcionalidades de ifcongif y route::
+- Instalamos el paquete **net-tools** para tener las funcionalidades de ifcongif y route::
 
 	# ifconfig
 	enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
