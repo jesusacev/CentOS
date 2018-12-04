@@ -1,7 +1,8 @@
 Como adecuar un server en Centos
 =====================================
 
-- Debemos modificar el hostname del servidor en el archivo hostname ubicado en /etc. La nomenclatura es nombre.dominio. Ejemplo: centosgit.local
+- Debemos modificar el hostname del servidor en el archivo hostname ubicado en /etc. La nomenclatura es nombre.dominio. 
+  Ejemplo: centosgit.local
 
 - Luego se debe configurar las interfaces de red. Para ello nos movemos a la ruta /etc/sysconfig/network-scripts y editamos las interfaces que necesitemos::
 
