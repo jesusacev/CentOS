@@ -76,7 +76,7 @@ Aquí dependerá de la configuración de su gusto, ya que se puede configurar as
 
 - Luego instalamos el repositorio de epel, que es un repositorio de paquetes rpm de la comunidad::
 
-	# yum install epel
+	# yum install epel-release.noarch
 
 - Por último realizamos una actualización de los paquetes que están de manera local::
 
